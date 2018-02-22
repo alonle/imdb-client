@@ -1,0 +1,8 @@
+
+/.idea/
+/target/
+/imdb-client.iml
+/model/target/
+/model/model.iml
+/client/client.iml
+/client/target/
