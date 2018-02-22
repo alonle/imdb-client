@@ -1,5 +1,5 @@
 # imdb-client
-Java client for IMDb open datasets
+Java client for [IMDb Datasets](http://www.imdb.com/interfaces/)
 ```xml
 <dependency>
   <groupId>com.afrunt.imdb</groupId>
