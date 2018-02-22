@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/afrunt/imdb-client.svg?branch=master)](https://travis-ci.org/afrunt/imdb-client)
 # imdb-client
 Java client for [IMDb Datasets](http://www.imdb.com/interfaces/)
 ```xml
