@@ -7,7 +7,7 @@
     <groupId>com.afrunt.imdb</groupId>
     <artifactId>imdb-client</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>imdb-client</name>
     <description>Open source JAVA library for working with IMDb public database</description>

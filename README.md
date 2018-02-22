@@ -5,7 +5,7 @@ Java client for [IMDb Datasets](http://www.imdb.com/interfaces/)
 <dependency>
   <groupId>com.afrunt.imdb</groupId>
   <artifactId>imdb-client</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 Example
